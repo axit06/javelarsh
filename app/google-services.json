@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "478838570503",
+    "project_id": "javelars-35402",
+    "storage_bucket": "javelars-35402.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478838570503:android:c33404a02c4d7d9e31f4a2",
+        "android_client_info": {
+          "package_name": "com.example.jewelarsh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478838570503-gui2abe8pj53gm3bb6nmvsadmo0qbh28.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jewelarsh",
+            "certificate_hash": "f89263a148bcebb04215eafbd1be3a125f20935b"
+          }
+        },
+        {
+          "client_id": "478838570503-nf14n4dngsbahgcp6sp4ufn0huhnms3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeKMvwyZu_9KqW7978KyCPIa0yU5sw59g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478838570503-nf14n4dngsbahgcp6sp4ufn0huhnms3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
